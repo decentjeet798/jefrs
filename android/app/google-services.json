@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "821392177551",
+    "firebase_url": "https://jefrs-tech-authentication.firebaseio.com",
+    "project_id": "jefrs-tech-authentication",
+    "storage_bucket": "jefrs-tech-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821392177551:android:ec7aa878f95758dfa0f3fa",
+        "android_client_info": {
+          "package_name": "com.example.jefrs_tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821392177551-lsf2p61a0ps3vkebamj1nshj5d147kt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jefrs_tech",
+            "certificate_hash": "04660648d64fc0a7fe8c43f594298c89084bfbcf"
+          }
+        },
+        {
+          "client_id": "821392177551-0rovf39tkq7hrh4upoop6g4s8mtqbik1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjE-UUp1dPt2oEK44l0sQ4aaHvTE88nns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821392177551-0rovf39tkq7hrh4upoop6g4s8mtqbik1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
